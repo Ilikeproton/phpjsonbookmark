@@ -2,7 +2,7 @@
 This is a simple and lightweight php bookmarking program that makes it easy to turn a json file into a bookmarking site
 
 
-20210228 update<br>
+<b>20210228 update</b><br>
 This is a bookmarking program, because when switching between different devices, you need to use your favorites, but you don't want to be big data or tagged, so make one yourself.
 This program is very simple, just edit your chrome favorites and export them into a json file using the php files I provide to put on php-supported machines
 
